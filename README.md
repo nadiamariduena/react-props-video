@@ -21,7 +21,7 @@
 
 ##### no.2
 
-[<img src="./img/react-simple-props.jpg">](https://youtu.be/UxRyPk2zc4c)
+[video2](https://youtu.be/UxRyPk2zc4c)
 
 <br>
 <br>
