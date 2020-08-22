@@ -13,7 +13,20 @@
 
 #### Simple (it contains no sass customization).
 
+##### no.1
+
 [<img src="./img/react-simple-props.jpg">](https://youtu.be/wRasvW23v1g)
+
+<br>
+
+##### no.2
+
+[<img src="./img/react-simple-props.jpg">](https://youtu.be/UxRyPk2zc4c)
+
+<br>
+<br>
+<br>
+<br>
 
 #### SASS customized
 
