@@ -1,7 +1,7 @@
-
-
 # PROPS
+
 ## A series of recapitulative REACT projects
+
 ## The projects like this one, will be accompanied by a video explanation related to the topic.
 
 <br>
@@ -9,13 +9,11 @@
 
 </p>
 
-
 ### click on the image to watch the the videos:
 
+#### Simple (it contains no sass customization).
 
-#### Simple 
-
-[<img src="./img/REACT-test3.gif">](https://youtu.be/LTe3nHrjsbo)
+[<img src="./img/react-simple-props.jpg">](https://youtu.be/wRasvW23v1g)
 
 #### SASS customized
 
