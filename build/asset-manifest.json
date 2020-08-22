@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nadiamariduena/react-props-video/static/css/main.d6302f5f.chunk.css",
-    "main.js": "/nadiamariduena/react-props-video/static/js/main.a4c71426.chunk.js",
-    "main.js.map": "/nadiamariduena/react-props-video/static/js/main.a4c71426.chunk.js.map",
-    "runtime-main.js": "/nadiamariduena/react-props-video/static/js/runtime-main.3d42a178.js",
-    "runtime-main.js.map": "/nadiamariduena/react-props-video/static/js/runtime-main.3d42a178.js.map",
-    "static/js/2.eb453850.chunk.js": "/nadiamariduena/react-props-video/static/js/2.eb453850.chunk.js",
-    "static/js/2.eb453850.chunk.js.map": "/nadiamariduena/react-props-video/static/js/2.eb453850.chunk.js.map",
-    "index.html": "/nadiamariduena/react-props-video/index.html",
-    "precache-manifest.678a923521bccc30bc1ae3f01813b295.js": "/nadiamariduena/react-props-video/precache-manifest.678a923521bccc30bc1ae3f01813b295.js",
-    "service-worker.js": "/nadiamariduena/react-props-video/service-worker.js",
-    "static/css/main.d6302f5f.chunk.css.map": "/nadiamariduena/react-props-video/static/css/main.d6302f5f.chunk.css.map",
-    "static/js/2.eb453850.chunk.js.LICENSE.txt": "/nadiamariduena/react-props-video/static/js/2.eb453850.chunk.js.LICENSE.txt"
+    "main.css": "/react-props-video/static/css/main.d6302f5f.chunk.css",
+    "main.js": "/react-props-video/static/js/main.a4c71426.chunk.js",
+    "main.js.map": "/react-props-video/static/js/main.a4c71426.chunk.js.map",
+    "runtime-main.js": "/react-props-video/static/js/runtime-main.ca56ea45.js",
+    "runtime-main.js.map": "/react-props-video/static/js/runtime-main.ca56ea45.js.map",
+    "static/js/2.eb453850.chunk.js": "/react-props-video/static/js/2.eb453850.chunk.js",
+    "static/js/2.eb453850.chunk.js.map": "/react-props-video/static/js/2.eb453850.chunk.js.map",
+    "index.html": "/react-props-video/index.html",
+    "precache-manifest.5f6ed3be3f4a631d65c997dce8a4255f.js": "/react-props-video/precache-manifest.5f6ed3be3f4a631d65c997dce8a4255f.js",
+    "service-worker.js": "/react-props-video/service-worker.js",
+    "static/css/main.d6302f5f.chunk.css.map": "/react-props-video/static/css/main.d6302f5f.chunk.css.map",
+    "static/js/2.eb453850.chunk.js.LICENSE.txt": "/react-props-video/static/js/2.eb453850.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d42a178.js",
+    "static/js/runtime-main.ca56ea45.js",
     "static/js/2.eb453850.chunk.js",
     "static/css/main.d6302f5f.chunk.css",
     "static/js/main.a4c71426.chunk.js"
